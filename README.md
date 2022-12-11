@@ -202,4 +202,4 @@
       
       ![Q](https://user-images.githubusercontent.com/115931631/206892748-76d494d9-abf7-4a73-b52a-571e146be949.png)
 
-### selesai. seperti itulah program crud sederhana yang kita buat, menggunakan class pada python
+### Selesai. Seperti itulah program crud sederhana yang kita buat, menggunakan class pada python
